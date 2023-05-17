@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a mental health platform for DBT and CBT practitioners
+Building a mental health platform for DBT and CBT practitioners. Integrating technology within people-first industries.
 
 
 ## 🌐 Socials:
