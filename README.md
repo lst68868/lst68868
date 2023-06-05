@@ -14,5 +14,3 @@ Building a mental health platform for DBT and CBT practitioners. <br>Using code 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lst68868&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
