@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a mental health platform for DBT and CBT practitioners. <br>Using code to improve our mental health system.<br><br>
+Building a mental health platform for DBT and CBT practitioners.<br><br>
 
 
 ## 🌐 Socials:
