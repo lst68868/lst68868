@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a mental health platform for DBT and CBT practitioners.<br><br>
+Cleared Fullstack software engineer.<br><br>
 
 
 ## 🌐 Socials:
